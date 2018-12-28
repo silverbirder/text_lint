@@ -1,0 +1,10 @@
+version: 1
+imports:
+  - prh/ja/jser-info.yml
+  - prh/ja/kanji-open.yml
+  - prh/ja/spoken.yml
+  - prh/ja/typo.yml
+  - prh/ja/web+db.yml
+  - prh/javascript.yml
+  - prh/css.yml
+  - prh/software.yml
