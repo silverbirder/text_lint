@@ -1,24 +1,18 @@
 {
-  "name": "shibamoto",
+  "name": "silverbirder",
   "version": "0.0.1",
-  "description": "shibamoto's weekly report",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "textlint",
     "fix": "textlint --fix"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://monotaro_shibamoto@bitbucket.org/monotaro_shibamoto/weekly_report.git"
-  },
   "keywords": [
     "weekly",
     "report"
   ],
-  "author": "shibamoto",
+  "author": "silverbirder",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/monotaro_shibamoto/weekly_report#readme",
   "dependencies": {
     "prh": "^5.4.3",
     "textlint": "^11.0.0",
